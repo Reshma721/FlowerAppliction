@@ -1,9 +1,9 @@
-Floral Feissy 🌸
+Floral Feissy 🌸🌸
 
 Floral Feissy is a full-stack flower shop application built with Spring Boot on the backend and ReactJS on the frontend. It provides users with an easy-to-use interface to browse and purchase flowers, while administrators can manage the inventory and categories.
 
-Table of Contents
 
+Table of Contents:
 Features
 Technologies
 Installation
@@ -16,11 +16,10 @@ License
 
 Features
 User Roles:
-
 Users can browse flower categories and purchase items.
 Admins can manage categories, update flower information, and track orders.
-Categories Available:
 
+Categories Available:
 Wedding Bouquet
 Bouquet
 Flower Pot
@@ -107,8 +106,6 @@ For detailed API documentation, refer to the Swagger documentation hosted at htt
 
 
 Future Enhancements
-
 Search Functionality: Adding search capabilities for specific flowers and categories.
-
 Mobile App: Developing a mobile-friendly version of the application.
 Order Tracking: Allow users to track their orders in real time.
