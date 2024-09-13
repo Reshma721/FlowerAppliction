@@ -106,6 +106,7 @@ For detailed API documentation, refer to the Swagger documentation hosted at htt
 
 
 Future Enhancements
+
 Search Functionality: Adding search capabilities for specific flowers and categories.
 Mobile App: Developing a mobile-friendly version of the application.
 Order Tracking: Allow users to track their orders in real time.
